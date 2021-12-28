@@ -1,14 +1,10 @@
-### Setup
+
 
 
 
 Install Rust https://rustup.rs/
  Install Solana https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool
  
- 
-
-### Build and test for program compiled
-
 
 
 ```
@@ -19,9 +15,6 @@ $init.check
   
   
 ```
-
-### Build and test the program.
-
 
 
 ```
